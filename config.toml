@@ -10,6 +10,7 @@ enableRobotsTXT = true
 pygmentsStyle = "monokai"
 
 [params]
+  custom_css = ["static/avatar.css"]
   footer = "SecuritIIE"
   description = "Association de cybersécurité de l'ENSIIE"
   avatarURL = "/images/securitiie.png"
