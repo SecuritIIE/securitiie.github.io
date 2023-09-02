@@ -42,6 +42,9 @@ pygmentsStyle = "monokai"
   ]
   metaKeywords = ["blog", "gokarna", "hugo"]
 
+[params.meta]
+  favicon = false
+
 [menu]
   [[menu.main]]
     name = "Home"
