@@ -38,7 +38,7 @@ pygmentsStyle = "monokai"
   """
   socialIcons = [
     {name = "linkedin", url = "https://linkedin.com/company/securitiie"},
-    {name = "email", url = "mailto:example@example.com"}
+    {name = "email", url = "mailto:securitiie.pro@gmail.com"}
   ]
   metaKeywords = ["blog", "gokarna", "hugo"]
 
