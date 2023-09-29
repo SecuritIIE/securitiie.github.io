@@ -1,4 +1,4 @@
-baseURL = "https://securitiie.gitlab.io/docs"
+baseURL = "https://securitiie.github.io"
 title = "SecuritIIE"
 theme = "gokarna"
 languageCode = "fr"
@@ -63,12 +63,6 @@ pygmentsStyle = "monokai"
     pre = "<span data-feather='book-open'></span>"
     url = "/guides/"
     weight = 15
-
-  [[menu.main]]
-    name = "Outils"
-    pre = "<span data-feather='tool'></span>"
-    url = "/outils/"
-    weight = 17
 
   [[menu.main]]
     name = "Infos"
