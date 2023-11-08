@@ -16,7 +16,7 @@ Cette formation a mis en lumière des concepts clés du web à savoir :
 
 Les slides sont disponibles ici : 
 
-[Accéder aux slides](https://drive.google.com/file/d/1okYnwsJXcr_QzW9wSJYam1tcm64YTC4i/view?usp=sharing)
+[Accéder aux slides](https://drive.google.com/file/d/1suzTnfPfQL-kLSjLPHc8AJPmyE0jMTEZ/view?usp=sharing)
 
 Formation réalisée par Yaceno.
 

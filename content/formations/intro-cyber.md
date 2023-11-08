@@ -15,7 +15,6 @@ La séance d'introduction a introduit divers points du monde de la cybersécurit
 
 Les slides sont disponibles ici : 
 
-[Accéder aux slides](https://drive.google.com/file/d/1zjxC3DvMFcuOecFv8izXsHclv4y-pbA5/view)
-
+[Accéder aux slides](https://drive.google.com/file/d/1IeWjkO9fmPSit3KEH-ctIWGvPih4t5rK/view?usp=sharing)
 Introduction réalisée par Yaceno.
 
