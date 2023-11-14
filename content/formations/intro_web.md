@@ -18,5 +18,5 @@ Les slides sont disponibles ici :
 
 [Accéder aux slides](https://drive.google.com/file/d/1suzTnfPfQL-kLSjLPHc8AJPmyE0jMTEZ/view?usp=sharing)
 
-Formation réalisée par Yaceno.
+Formation réalisée par Yacine Souam.
 
