@@ -1,6 +1,6 @@
 ---
 title: "Formation File inclusion"
-date: 2023-02-14T16:00:00+05:30
+date: 2024-02-14T16:00:00+05:30
 #tags: ["Web"]
 type: "post"
 image: "/images/lorem-ipsum/quick-fox.png"
