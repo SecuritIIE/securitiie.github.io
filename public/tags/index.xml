@@ -4,7 +4,8 @@
     <title>Tags on SecuritIIE</title>
     <link>https://securitiie.github.io/tags/</link>
     <description>Recent content in Tags on SecuritIIE</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>fr</language><atom:link href="https://securitiie.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <atom:link href="https://securitiie.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
