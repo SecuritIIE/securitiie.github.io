@@ -1,5 +1,5 @@
 ---
-title: "Formation Linux Privilege Escalation"
+title: "Formation File Inclusion"
 date: 2024-02-14T16:00:00+05:30
 #tags: ["Web"]
 type: "post"
